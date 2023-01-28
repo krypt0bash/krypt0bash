@@ -3,7 +3,8 @@ Hi, I'm krypto!
 ```typescript
 const krypto = {
 	full_name: "Tatu Cosmin",
-	bio: "I'm a last year student in highschool who's been a self-taught developer for the last 3 years. I usually like to listen to music and code!",
+	bio: "I'm a last year student in highschool who's been a self-taught developer for the last 3 years.
+    I usually like to listen to music and code!",
 	languages: ["Typescript, NodeJS, C++"],
     interests: ["Web development", "UI/UX design", "Low level programming", "Video games", "Memes", "Cats"],
     technologies: {
