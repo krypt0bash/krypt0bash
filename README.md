@@ -1,5 +1,5 @@
 Hi, I'm krypto!
-<img hspace='10px' vspace='34px' align='right' src="https://media.tenor.com/h0slfYVBHzIAAAAC/cat-spinning-cat.gif" width='100'>
+<img align='right' src="https://media.tenor.com/h0slfYVBHzIAAAAC/cat-spinning-cat.gif" width='100'>
 ```typescript
 const krypto = {
 	full_name: "Tatu Cosmin",
