@@ -13,7 +13,7 @@ const krypto = {
            },
            databases: ["MySQL", "PostgreSQL"],
            other: ["Git", "Supabase", "Stripe", "OAuth"]
-    }
+        }
 };
 ```
 
